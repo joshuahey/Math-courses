@@ -11,6 +11,6 @@ MATH 227 - Honors Linear Algebra II <br />
 
 # Second year
 
-MATH 217 - Honors advanced calculus I (Real analysis <br />
+MATH 217 - Honors advanced calculus I (Real analysis) <br />
 MATH 328 - Introduction to Group Theory<br />
 MATH 298 - Problem solving seminar <br />
