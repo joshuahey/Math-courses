@@ -1,0 +1,16 @@
+# First year
+
+MATH 117
+MATH 118
+MATH 111
+MATH 298
+MATH 127
+MATH 227
+
+
+
+# Second year
+
+MATH 217
+MATH 328
+MATH 298
