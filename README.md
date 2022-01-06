@@ -13,3 +13,10 @@ MATH 227 - Honors Linear Algebra II <br />
 MATH 217 - Honors advanced calculus I (Real analysis) <br />
 MATH 328 - Introduction to Group Theory<br />
 MATH 298 - Problem solving seminar <br />
+
+# Courses I am doing right now:
+
+MATH 317 - Honors advanced calculus II (Real analysis) <br />
+MATH 336 - Honors Ordinary Differential equations <br />
+MATH 371 - Mathematical Modelling in Life sciences <br />
+MATH 298 - Problem solving seminar <br />
