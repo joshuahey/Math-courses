@@ -14,7 +14,7 @@ MATH 217 - Honors advanced calculus I (Real analysis) <br />
 MATH 328 - Introduction to Group Theory<br />
 MATH 298 - Problem solving seminar <br />
 
-# Courses I am doing right now:
+# Fourth Sem
 
 MATH 317 - Honors advanced calculus II (Real analysis) <br />
 MATH 336 - Honors Ordinary Differential equations <br />
