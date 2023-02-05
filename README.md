@@ -21,9 +21,16 @@ MATH 336 - Honors Ordinary Differential equations <br />
 MATH 371 - Mathematical Modelling in Life sciences <br />
 MATH 298 - Problem solving seminar <br />
 
+
 # Fifth Sem
 
 MATH 411 - Honors Complex Variables <br />
 MATH 337 - Introduction to Partial Differential equations <br />
 MATH 381 - Numerical Methods I <br />
 STATS 265 - Statistics I
+
+# Sixth Sem
+
+MATH 417 - Honors Real Variables I ( Measure Theory) <br/>
+MATH 499 - Honors Research Project ( Thesis) <br/>
+STATS 266 - Statistics II 
